@@ -1,7 +1,7 @@
 # Programming for Data Analysis 2021 - Project
 
 ## Repository Content: 
-This repository contains a Jupyter Notebook with the project for the Programming for Data Analysis module, simulating a real world phenomenon using Python
+This repository contains a Jupyter Notebook with the project for the Programming for Data Analysis module, simulating a real world phenomenon using Python.
 
 
 ## How to run the Jupyter notebook: 
